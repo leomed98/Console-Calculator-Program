@@ -41,7 +41,7 @@ switch(op){
     break;
 
     default:
-    std::cout<< "Invalid Respone! \n";
+    std::cout<< "Invalid Response! \n";
     break;
 
 }
